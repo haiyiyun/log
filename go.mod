@@ -1,3 +1,3 @@
-module go.haiyiyun.org/log
+module github.com/haiyiyun/log
 
 go 1.16
